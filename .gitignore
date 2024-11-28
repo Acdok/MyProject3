@@ -77,3 +77,6 @@ LLM/.env
 /TTS/*
 
 /TTS
+/fu
+/dockertest1
+Content/UI/Movie/khsMain.mp4
